@@ -1,7 +1,0 @@
-{
-  "name": "NeXT Plan - Town Planning & Development Consultants",
-  "description": "A high-end, information-driven platform for town planning applications, relaxation consults, and development intelligence, inspired by Google's clean and efficient aesthetic.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
-}
